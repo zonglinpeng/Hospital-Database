@@ -1,9 +1,11 @@
+/**
+ * Authors: Zonglin, Sambaumgarten 
+ */
+
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- * Created by Zonglin and sambaumgarten */
 public class Main {
     public static void main(String [] args) throws SQLException {
         if (args.length <= 2) {

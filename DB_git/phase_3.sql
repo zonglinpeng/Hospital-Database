@@ -1,4 +1,8 @@
-﻿set serveroutput on;
+/**
+*Authors: Zonglin, Sambaumgarten 
+*/
+
+set serveroutput on;
 
 /* Drop all tables */
 

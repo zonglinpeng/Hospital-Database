@@ -4,7 +4,7 @@
 
 set serveroutput on;
 
-/* Drop all tables */
+/* Drop all tables in case that they were created before */
 
 DROP TABLE Employees cascade constraints;
 DROP TABLE GeneralManagers cascade constraints;
